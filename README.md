@@ -4,6 +4,8 @@ This work is part of a class at the University of Applied Sciences Potsdam. The 
 
 The chosen artist is Marcel Storr and is supposedly categorised to Art Brut (or Outsider Art). Art Brut is a general term for autodidactic art by layman, children or people with mental disabilities. It describes an art beyond any kind of established form or movement in art.
 
+
+
 Marcel Storr grew up under difficult circumstances. As child he went to several protectories in which he suffered mistreatment and abuse. As an adult he worked in different jobs, married in 1964 and was employed as street sweeper in Paris. Soon Storr started to lose his hearing and to suffer from mental problems, which are not known in detail. Since 1974 he spent his life in Hôpital de Ville-Évrard, where he died of cancer.
 
 It appears that Storr started his artistic work very early. The first period of his creativity reaches from the beginning 1930s until the 1960s. Small and detailed, naive but realistic representations of churches predominate this period with high diligence in terms of architectonic and decorative details.
