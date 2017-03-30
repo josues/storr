@@ -1,3 +1,14 @@
+--- 
+authors: 
+  - Joshua Pacheco
+  - Theodor Hillmann
+authors-url: 
+  - "https://incom.org/profil/7029"
+layout: project
+title: "Deconstructing Storr"
+type: project
+---
+
 Deconstructing Master Artists: Marcel Storr
 
 This work is part of a class at the University of Applied Sciences Potsdam. The project aims to replicate an artists work using processing code.
