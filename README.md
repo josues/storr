@@ -50,7 +50,7 @@ The codes third iteration was actually building small fractal ‚houses’. The 
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.024.jpeg)
 
 The code so far was rather static and created very similar output. 
-In a last iteration of the code, … 
+In a last iteration of the code, the ouptput was much more variable, creating a new ensemble of buildings every time.
 
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.025.jpeg)
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.027.jpeg)
@@ -58,3 +58,5 @@ In a last iteration of the code, …
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.029.jpeg)
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.030.jpeg)
 ![](https://raw.githubusercontent.com/josues/storr/master/visuals/DOKU_Marcel-Storr.031.jpeg)
+
+The code can be reviewed [here](https://gist.github.com/t0dorakis/0f3210240047aa7d61515d515f49bc95).
